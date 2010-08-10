@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'twitpic4r'
 
 API_KEY = 'API KEY for your twitpic application'

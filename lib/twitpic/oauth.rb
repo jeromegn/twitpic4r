@@ -1,3 +1,5 @@
+require 'openssl'
+
 module Twitpic
   class OAuth
     AUTH_PROVIDER_URL = 'https://api.twitter.com/1/account/verify_credentials.json'
